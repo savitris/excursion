@@ -1,0 +1,25 @@
+:root {
+  --dark: black;
+}
+
+body {
+  background-color: var(--dark);
+  margin: 0;
+  text-align: center;
+}
+
+a:link,
+a:visited {
+  color: aquamarine;
+  font-size: 16px;
+  padding: 14px 25px;
+  display: inline-block;
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+  font-family: Verdana;
+  padding: 14px 25px;
+  display: inline-block;
+}
