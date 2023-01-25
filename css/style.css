@@ -22,7 +22,7 @@ div {
 }
 
 img {
-  display: block;
+  /* Images are always inline and display: block; breaks the text alignment, impedes the image from centering in its container */
 }
 
 h1,
