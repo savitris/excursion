@@ -1,0 +1,19 @@
+a:link,
+a:visited {
+  background-color: #000;
+  color: aquamarine;
+  font-size: 16px;
+  padding: 14px 25px;
+  text-align: center;
+  display: inline-block;
+}
+
+h1 {
+  background-color: #000;
+  color: white;
+  font-size: 50px;
+  font-family: Verdana;
+  padding: 14px 25px;
+  text-align: center;
+  display: inline-block;
+}
