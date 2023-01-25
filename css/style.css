@@ -17,6 +17,10 @@ a:visited {
   display: block;
 }
 
+img {
+  display: block;
+}
+
 h1,
 h2 {
   color: white;
