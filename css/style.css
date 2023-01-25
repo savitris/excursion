@@ -17,6 +17,10 @@ a:visited {
   display: block;
 }
 
+div {
+  text-align: center;
+}
+
 img {
   display: block;
 }
@@ -38,9 +42,6 @@ h2 {
 p {
   color: gray;
   font-size: 21px;
-  border-color: red;
-  display: flex;
-  justify-content: center;
 }
 
 #copyright {
